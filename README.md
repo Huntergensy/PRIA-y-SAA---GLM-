@@ -10,7 +10,7 @@
   - [Practica2SAA(Evaluable).qmd](Practica2SAA(Evaluable).qmd): Archivo .qmd para la distribución de probabilidad en variable aleatoria continua y discreta.
 
 - **Imágenes de Resultados:**
-  - [Ejemplo - ggimg -lotr_tamano_vs_fuerza.png](Ejemplo%20-%20ggimg%20-20lotr_tamano_vs_fuerza.png): Imagen de ejemplo del resultado de ggimg.
+  - [Ejemplo - ggimg -lotr_tamano_vs_fuerza.png](Ejemplo%20-%20ggimg%20-lotr_tamano_vs_fuerza.png): Imagen de ejemplo del resultado de ggimg.
   - [Ejemplo - ggradar.png](Ejemplo%20-%20ggradar.png): Imagen de ejemplo del resultado de ggradar.
 
 - **Carpeta con Imágenes:**
