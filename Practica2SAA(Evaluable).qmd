@@ -3,9 +3,6 @@ title: "Práctica 2 SAA - (Evaluable)"
 author: "Ginés López Martínez"
 format: html
 editor: visual
-output:
-  pdf_document:
-    toc: true
 ---
 
 # **Variable aleatoria contínua**
